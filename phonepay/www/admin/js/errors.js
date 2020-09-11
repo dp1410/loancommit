@@ -1,0 +1,1 @@
+var AppError=Vue.component("app-error",{template:"#app-error-template"}),BlogSubscribe=Vue.component("blog-subscribe",{template:"#blog-subscribe-template"}),app=new Vue({el:"#main"});

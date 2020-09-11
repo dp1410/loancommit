@@ -1,0 +1,61 @@
+{
+	"site": {
+		"contactUs": {
+			"actionBtn": "",
+			"content": {
+				"par1": "paragraph 1 content",
+				"par2": "paragraph 2 content"
+			},
+			"email": "first.name@youremail.com",
+			"header": "Contact Us",
+			"phone": "123-456-7890",
+			"social": "http://fav-social-site/username",
+			"subHeader": "Contact Me",
+			"subTitle": "Contact Me",
+			"subscribeText": "Subscribe Here",
+			"times": "Mon-Fri 08:00-17:00",
+			"title": "Contact Me Page"
+		},
+		"aboutUs": {
+			"actionBtn": "Hire me",
+			"content": {
+				"par1": "paragraph 1 content",
+				"par2": "paragraph 2 content",
+				"par3": "paragraph 3 content"
+			},
+			"header": "About Us",
+			"skills": [
+				"Web Developer",
+				"Freelancer",
+				"Architecture",
+				"Consultant"
+			],
+			"subHeader": "A simple web blog",
+			"subTitle": "I am a developer",
+			"subscribeText": "Subscribe for my updates",
+			"title": "About Me Page"
+		},
+		"dateCreated": "",
+		"mapValues": {
+			"aboutText": "About",
+			"adminText": "Admin",
+			"articleByText": "Article By",
+			"contactText": "Contact",
+			"copyrightText": "Copyright 2017. All rights reserved",
+			"discussText": "Discuss about post",
+			"engineText": "JarredWeb",
+			"loadBtnText": "Load",
+			"poweredByText": "Powered By",
+			"queryText": "Type your search query above and then press to enter or click on icon",
+			"readMoreText": "Read More",
+			"siteTitle": "JarredWeb",
+			"submitText": "Submit",
+			"subscriberText": "Subscribe to receive notification of new episodes",
+			"suggestionText": "You May Also Like",
+			"themeName": "Dynamic Page",
+			"title": "My Awesome Blog"
+		},
+		"_id": "site_content",
+		"type": "site_content"
+	}
+}
